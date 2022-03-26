@@ -1,0 +1,68 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X1",
+    "price": 420,
+    "img": "https://img.freepik.com/free-psd/close-up-view-laptop-mockup-design_47987-1812.jpg?w=996&t=st=1648292392~exp=1648292992~hmac=28ffed00a89f0bb263941e15ab06eaa2ad8d7a0100c6ee07867bbb61ab873d05"
+  },
+  {
+    "id": "125e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X1 Pro",
+    "price": 499,
+    "img": "https://img.freepik.com/free-psd/laptop-mockup-design_47987-1814.jpg?size=626&ext=jpg&ga=GA1.2.12734700.1642255982"
+  },
+  {
+    "id": "126e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X1 Pro Max",
+    "price": 599,
+    "img": "https://img.freepik.com/free-psd/laptop-mockup-design-psd_47987-1822.jpg?t=st=1648273640~exp=1648274240~hmac=5a920efe33065d074806cb5567a2b002095e065244059a3b750f8a9f02f1e235&w=1060"
+  },
+  {
+    "id": "127e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X2",
+    "price": 620,
+    "img": "https://img.freepik.com/free-psd/laptop-screen-mockup-psd-desk-retro-home-office-zone_53876-109298.jpg?t=st=1648292049~exp=1648292649~hmac=085bef86ae3baa7007dad9dd2d63fe169e92d31b0c937d04c577c4c1ae35ca18&w=1060"
+  },
+  {
+    "id": "128e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X2 Pro",
+    "price": 699,
+    "img": "https://img.freepik.com/free-psd/twilight-scene-device-mockup_23-2149131302.jpg?t=st=1648292049~exp=1648292649~hmac=a7882915e9a56d0b891895aa011a3e16ef105feb4c5a58a5240a7510d608b7bd&w=1060"
+  },
+  {
+    "id": "129e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X2 Pro Max",
+    "price": 799,
+    "img": "https://img.freepik.com/free-psd/abstract-stone-laptop_23-2148920534.jpg?w=1060&t=st=1648292673~exp=1648293273~hmac=c0a255b67a9639314c2408f323b020aabf9f902ad8a925f31c1f4b663bbefe22"
+  },
+  {
+    "id": "130e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X2 Ultra",
+    "price": 820,
+    "img": "https://img.freepik.com/free-psd/abstract-stone-laptop_23-2148920529.jpg?w=996"
+  },
+  {
+    "id": "131e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X3",
+    "price": 899,
+    "img": "https://img.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_53876-138283.jpg?t=st=1648292783~exp=1648293383~hmac=a41a22465aacb4b6cc28dafa9ccf8c1133236ee6a416c6dcf93d48cb5bf24dc0&w=996"
+  },
+  {
+    "id": "132e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X3 Pro",
+    "price": 999,
+    "img": "https://img.freepik.com/free-psd/twilight-scene-device-mockup_23-2149131316.jpg?size=626&ext=jpg&ga=GA1.2.12734700.1642255982"
+  },
+  {
+    "id": "133e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "MOCKBOOK X3 Pro Max",
+    "price": 1020,
+    "img": "https://img.freepik.com/free-psd/laptop-mock-up-front-view_1310-198.jpg?size=626&ext=jpg&ga=GA1.2.12734700.1642255982"
+  },
+  {
+    "id": "134e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "ULTRAPRO MOCKBOOK",
+    "price": 1099,
+    "img": "https://img.freepik.com/free-psd/laptop-frontal-view-mock-up_1022-172.jpg?size=626&ext=jpg&ga=GA1.2.12734700.1642255982"
+  }
+]
