@@ -30,9 +30,9 @@ const Shop = () => {
                 <div className='col-4'>
                     <h4>Carts: {cart.length}</h4>
                     {
-                        cart.map((item) => <Cart item={item} key={item.id}></Cart>)
+                        cart.map((item) => <li>{item.name}</li>)
                     }
-
+                    <Cart cart={cart}></Cart>
                 </div>
             </div>
         </div >
